@@ -83,15 +83,20 @@ User installation
 ~~~~~~~~~~~~~~~~~
 
 If you already have a working installation of NumPy and SciPy,
-the easiest way to install scikit-learn is using ``pip``::
+the easiest way to install scikit-learn is to use **pip**:
+
+::
 
     pip install -U scikit-learn
 
-or ``conda``::
+or **conda**:
+
+::
 
     conda install -c conda-forge scikit-learn
 
-The documentation includes more detailed `installation instructions <https://scikit-learn.org/stable/install.html>`_.
+The documentation includes more detailed installation instructions.
+
 
 
 Changelog
